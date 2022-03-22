@@ -1,0 +1,17 @@
+.pagination {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.pagination .page {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagination .dropdown {
+    width: 30%;
+}
